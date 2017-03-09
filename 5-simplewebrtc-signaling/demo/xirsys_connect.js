@@ -6,7 +6,7 @@ var xirsysConnect = {
 	secureTokenRetrieval : false,
 	data : {
 		channel : 'berruetabeloso',
-		ident : 'eduberru',
+		ident : 'JavierOner555',
 		secret : '0f61b476-0364-11e7-80d1-4402cdcf107f'
 	}
 };
