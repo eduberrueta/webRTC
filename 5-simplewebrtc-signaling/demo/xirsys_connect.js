@@ -22,7 +22,7 @@ var xirsysConnect = {
 		room : 'default',
 		ident : 'eduberrueta',
 		secret : '5a6a4490-04a1-11e7-8586-1443c74ef2b0',
-		secure : 0
+		secure : 1
 	}
 };
 
