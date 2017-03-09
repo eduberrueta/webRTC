@@ -14,7 +14,7 @@
 	}
 };**/
 
-var xirsysConnect = {
+/**var xirsysConnect = {
 	secureTokenRetrieval : false,
 	data : {
 		domain : 'berruetabeloso',
@@ -24,17 +24,17 @@ var xirsysConnect = {
 		secret : '5a6a4490-04a1-11e7-8586-1443c74ef2b0',
 		secure : 0
 	}
-};
+};**/
 
 // Secure method
-/*var xirsysConnect = {
+var xirsysConnect = {
 	secureTokenRetrieval : true,
 	server : '../getToken.php',
 	data : {
-		domain : '< www.yourdomain.com >',
-		application : 'default',
-		room : 'default',
+		domain : 'berruetabeloso',
+		application : 'practicadsm',
+		room : 'practicawebrtc',
 		secure : 1
 	}
-};*/
+};
 
