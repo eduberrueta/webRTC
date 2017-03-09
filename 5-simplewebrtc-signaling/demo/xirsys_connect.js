@@ -18,8 +18,8 @@ var xirsysConnect = {
 	secureTokenRetrieval : false,
 	data : {
 		domain : 'berruetaBeloso',
-		application : 'practicaDSM',
-		room : 'default',
+		application : 'practicadsm',
+		room : 'practicawebrtc',
 		ident : 'eduberrueta',
 		secret : '5a6a4490-04a1-11e7-8586-1443c74ef2b0',
 		secure : 0
